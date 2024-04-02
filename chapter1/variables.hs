@@ -1,4 +1,3 @@
-import Data.Function (on)
 helloWorld = "Hello, World"
 number5 = 5
 snake_case_variable = True
